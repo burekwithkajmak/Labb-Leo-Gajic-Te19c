@@ -1,4 +1,4 @@
-# h) - dokumenteringen finns länst ner
+# h) - OBSSSS!!!! dokumenteringen finns länst ner
 import random as rnd
 import matplotlib.pyplot as plt
 
