@@ -36,7 +36,7 @@ for g in range(multiplar):
     string.append(multipelstring)
 
 #En for sats som körs från 1 till det tal som användaren har matat in i variabeln slutintervall.
-for i in range(1,omvandlare):
+for i in range(startintervall,omvandlare):
     #En if sats som kör igenom listan multipel och kollar om talet i inte är en multipel utav någon av multiplarna som finns i listan och printar då i. 
     if all([i%z!=0 for z in multipel]):
         print(i)
